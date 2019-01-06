@@ -24,11 +24,11 @@ $lang = array_merge($lang, array(
 	'ACP_MYTOP_TITLE'		=> 'Seus tópicos',
 	'ACP_MYTOP_CONFIG'		=> 'Configurações da extensão',
 	'ACP_MYTOP_UPDATED'		=> 'A configuração foi atualizada com sucesso.',
-	'ACP_MYTOP_TOP'		=> 'Topo',
+	'ACP_MYTOP_TOP'		=> 'Superior',
 	'ACP_MYTOP_BOTTOM'		=> 'Inferior',
 	'MY_TOPICS'			=> 'Seus tópicos',
 	'MYTOP_POS'			=> '“Seus tópicos” como primeiro item',
-	'MYTOP_POS_EXPLAIN'		=> 'Selecione "Topo" para colocar o novo item de menu no início do menu suspenso "Links rápidos". Selecione "Inferior" para colocá-lo no final.',
+	'MYTOP_POS_EXPLAIN'		=> 'Selecione "Superior" para colocar o novo item de menu no início do menu suspenso "Links rápidos". Selecione "Inferior" para colocá-lo no final.',
 	'MYPOST_NO'			=> 'Ocultar o item “Seus Posts”',
 	'MYPOST_NO_EXPLAIN'		=> 'Você pode querer ocultar o item “Seus Posts” no menu “Links Rápidos”, já que ambos os itens do menu são realmente similares.',
 ));
